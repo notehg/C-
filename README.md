@@ -1,6 +1,3 @@
-Claro! Aqui está um exemplo de texto dinâmico e bem estruturado para ser usado como **README.md** em um repositório do GitHub de um projeto em C++, utilizando o **Dev-C++** como ambiente de desenvolvimento:
-
----
 
 # 💻 Projeto C++ com Dev-C++
 
